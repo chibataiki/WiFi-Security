@@ -3,14 +3,13 @@ A list of references to fuzzing resources for wifi security testing.
 
 ## Contents
 
-- [Papers](#papers & conference)
+- [Papers and conference](#papers_and_conference)
 - [Presentations](#presentations)
 - [Blogs](#blogs)
 - [Tools](#tools)
 
 
-## papers & conference
-
+## papers_and_conference
 
 
 - [NDSS 2019] PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary
@@ -30,8 +29,6 @@ A list of references to fuzzing resources for wifi security testing.
 
   
 
-
-
 ## presentations
 
 - [Black Hat Usa 2017] WiFuzz: Detecting and Exploiting Logical Flaws in the Wi-Fi Cryptographic Handshake
@@ -48,14 +45,9 @@ A list of references to fuzzing resources for wifi security testing.
 
   - https://www.youtube.com/watch?v=TDk2RId8LFo
 
-    
-
 - [POC 2018] 802.11 Smart Fuzzing
-
   - https://www.powerofcommunity.net/poc2018/lidong.pdf
-
-    
-
+  
 - [Black Hat Usa 2019] Exploiting Qualcomm WLAN and Modem Over the Air
 
   - https://i.blackhat.com/USA-19/Thursday/us-19-Pi-Exploiting-Qualcomm-WLAN-And-Modem-Over-The-Air.pdf
@@ -74,6 +66,8 @@ A list of references to fuzzing resources for wifi security testing.
 - [HITB CyberWeek2021]  WIFI Security - From 0 To 1
   - https://cyberweek.ae/2021/wp-content/uploads/sites/8/2021/10/COMMSEC-D2-WIFI-Security-From-0-To-1-Sili-Luo.pdf
   - https://www.youtube.com/watch?v=MIbPKLq2AYQ
+
+
 
 ## blogs
 
