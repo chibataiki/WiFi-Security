@@ -3,13 +3,13 @@ A list of references to fuzzing resources for wifi security testing.
 
 ## Contents
 
-- [Papers and conference](#papers_and_conference)
+- [Papers and Conferences](#papers_and_conferences)
 - [Presentations](#presentations)
 - [Blogs](#blogs)
 - [Tools](#tools)
 
 
-## papers_and_conference
+## papers_and_conferences
 
 
 - [NDSS 2019] PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary
