@@ -9,6 +9,7 @@ A list of references to fuzzing resources for wifi security testing.
 - [Tools](#tools)
 
 
+
 ## papers_and_conferences
 
 
@@ -54,8 +55,6 @@ A list of references to fuzzing resources for wifi security testing.
   - https://i.blackhat.com/USA-19/Thursday/us-19-Pi-Exploiting-Qualcomm-WLAN-And-Modem-Over-The-Air-wp.pdf
   - https://www.youtube.com/watch?v=KxdfX9NxfA4
 
-
-
 - [Black Hat Asia 2020] WIFI-Important Remote Attack Surface: Threat is Expanding
   - https://www.youtube.com/watch?v=ySUxQ8hktAw
   - http://i.blackhat.com/asia-20/Thursday/asia-20-Xie-WIFI-Important-Remote-Attack-Surface-Threat-Is-Expanding.pdf
@@ -71,6 +70,10 @@ A list of references to fuzzing resources for wifi security testing.
 
 ## blogs
 
+- [2020] exploiting-wifi-stack-on-tesla-model-s
+
+    - https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/
+
 - [2017] Broadpwn: Remotely Compromising Android and iOS via a Bug in Broadcom’s Wi-Fi Chipsets
   
     - https://blog.exodusintel.com/2017/07/26/broadpwn/
@@ -85,8 +88,9 @@ A list of references to fuzzing resources for wifi security testing.
 
 -  [openwifi](https://github.com/open-sdr/openwifi)
 
--  [Owfuzz](https://github.com/alipay/Owfuzz/)
-   -  a WiFi protocol fuzzing tool using openwifi.
+- [Owfuzz](https://github.com/alipay/Owfuzz/)
+
+   
 
 
 
