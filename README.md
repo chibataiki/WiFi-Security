@@ -61,6 +61,7 @@ A list of references to fuzzing resources for wifi security testing.
 
 - [Black Hat Europe 2021] BadMesher: New Attack Surfaces of Wi-Fi Mesh Network
   - http://i.blackhat.com/EU-21/Thursday/EU-21-LeweiQu-BadMesher_New_Attack_Surfaces_of_Wi-Fi_Mesh_Network.pdf
+  - https://www.youtube.com/watch?v=8bhv-BhGDmk
 
 - [HITB CyberWeek2021]  WIFI Security - From 0 To 1
   - https://cyberweek.ae/2021/wp-content/uploads/sites/8/2021/10/COMMSEC-D2-WIFI-Security-From-0-To-1-Sili-Luo.pdf
