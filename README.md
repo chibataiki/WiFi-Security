@@ -1,4 +1,4 @@
-# Awesome-Wifi-Fuzzing
+# Wifi Fuzzing Related 
 A list of references to fuzzing resources for wifi security testing.
 
 ## Contents
