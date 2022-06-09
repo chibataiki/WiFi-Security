@@ -67,7 +67,11 @@ A list of references to fuzzing resources for wifi security testing.
   - https://cyberweek.ae/2021/wp-content/uploads/sites/8/2021/10/COMMSEC-D2-WIFI-Security-From-0-To-1-Sili-Luo.pdf
   - https://www.youtube.com/watch?v=MIbPKLq2AYQ
 
+- [sstic 2022] Ghost in the Wireless, iwlwifi edition
 
+  - https://www.sstic.org/2022/presentation/intel_wifi/
+
+    
 
 ## blogs
 
