@@ -78,12 +78,20 @@ A list of references to fuzzing resources for wifi security testing.
 - [2020] exploiting-wifi-stack-on-tesla-model-s
 
     - https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/
-
 - [2017] Broadpwn: Remotely Compromising Android and iOS via a Bug in Broadcom’s Wi-Fi Chipsets
   
     - https://blog.exodusintel.com/2017/07/26/broadpwn/
-    
-      
+
+- [2017] Project Zero Over The Air : Exploiting The Wi-Fi Stack on Apple Devices
+  - Part1 https://googleprojectzero.blogspot.com/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html
+  - Part2 https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-2-exploiting-wi-fi.html
+  - Part3 https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html
+
+- [2017] Project Zero,  Over The Air: Exploiting Broadcom’s Wi-Fi Stack
+  - Part1 https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html
+  - Part2 https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html
+
+
 
 ## tools
 
