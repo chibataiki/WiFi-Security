@@ -48,7 +48,12 @@ A list of references to fuzzing resources for wifi security testing.
 
 - [POC 2018] 802.11 Smart Fuzzing
   - https://www.powerofcommunity.net/poc2018/lidong.pdf
-  
+
+- [zeronights 2018] Researching Marvell Avastar Wi-Fi: From Zero Knowledge to Over-the-Air Zero-Touch RCE
+
+  - https://2018.zeronights.ru/wp-content/uploads/materials/19-Researching-Marvell-Avastar-Wi-Fi.pdf
+  - https://www.youtube.com/watch?v=Him_Lf5ZJ38
+
 - [Black Hat Usa 2019] Exploiting Qualcomm WLAN and Modem Over the Air
 
   - https://i.blackhat.com/USA-19/Thursday/us-19-Pi-Exploiting-Qualcomm-WLAN-And-Modem-Over-The-Air.pdf
