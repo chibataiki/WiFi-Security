@@ -19,6 +19,11 @@ A list of references to fuzzing resources for wifi security testing.
   - https://www.ndss-symposium.org/wp-content/uploads/ndss2019_04A-1_Song_slides.pdf
   - https://www.youtube.com/watch?v=GDf4IIEhl0Y&list=PLfUWWM-POgQvLhcT_z_rw4_2RvJSXpa7k&index=2&t=2s
 
+- [2020] Fuzzing Wi-Fi in IoT devices
+
+
+  - https://www.cs.ru.nl/bachelors-theses/2020/Bart_Pleiter___4752740___Fuzzing_Wi-Fi_in_IoT_devices.pdf
+
 - [2020] GREYHOUND: Directed Greybox Wi-Fi Fuzzing
 
   - https://asset-group.github.io/papers/Greyhound.pdf
