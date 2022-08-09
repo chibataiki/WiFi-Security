@@ -28,12 +28,20 @@ A list of references to fuzzing resources for wifi security testing.
 
   - https://asset-group.github.io/papers/Greyhound.pdf
 
+- [2021] Black-Box Analysis of Wi-Fi Stacks Security
+
+
+  -  https://www.fit.vut.cz/study/thesis-file/23755/23755.pdf
+  - Master's Thesis 
+
 - [ACM WiSec 2021] DEMO: A Framework to Test and Fuzz Wi-Fi Devices
 
   - https://www.youtube.com/watch?v=S3HQlNYun-I
   - https://dl.acm.org/doi/10.1145/3448300.3468261
 
   
+
+
 
 ## presentations
 
@@ -85,11 +93,8 @@ A list of references to fuzzing resources for wifi security testing.
 
 ## blogs
 
-- [2020] exploiting-wifi-stack-on-tesla-model-s
-
-    - https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/
 - [2017] Broadpwn: Remotely Compromising Android and iOS via a Bug in Broadcom’s Wi-Fi Chipsets
-  
+
     - https://blog.exodusintel.com/2017/07/26/broadpwn/
 
 - [2017] Project Zero Over The Air : Exploiting The Wi-Fi Stack on Apple Devices
@@ -100,6 +105,11 @@ A list of references to fuzzing resources for wifi security testing.
 - [2017] Project Zero,  Over The Air: Exploiting Broadcom’s Wi-Fi Stack
   - Part1 https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html
   - Part2 https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html
+
+- [2019] Reverse-engineering Broadcom wireless chipsets
+  - https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html
+- [2020] exploiting-wifi-stack-on-tesla-model-s
+  - https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/
 
 
 
