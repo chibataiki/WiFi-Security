@@ -45,6 +45,12 @@ A list of references to fuzzing resources for wifi security testing.
 
 ## presentations
 
+- [Black Hat Europe 2017]  WI-FI DIRECT TO HELL: ATTACKING WI-FI DIRECT PROTOCOL IMPLEMENTATIONS
+
+  - https://www.blackhat.com/eu-17/briefings.html#wi-fi-direct-to-hell-attacking-wi-fi-direct-protocol-implementations
+  
+  - https://www.youtube.com/watch?v=HukhsrYlrAo
+
 - [Black Hat Usa 2017] WiFuzz: Detecting and Exploiting Logical Flaws in the Wi-Fi Cryptographic Handshake
 
   - https://www.blackhat.com/docs/us-17/wednesday/us-17-Vanhoeft-WiFuzz-Detecting-And-Exploiting_Logical-Flaws-In-The-Wi-Fi-Cryptographic-Handshake.pdf
