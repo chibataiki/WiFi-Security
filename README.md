@@ -110,6 +110,8 @@ A list of references to fuzzing resources for wifi security testing.
   - https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html
 - [2020] exploiting-wifi-stack-on-tesla-model-s
   - https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/
+- [2022] CVE-2022-23088: EXPLOITING A HEAP OVERFLOW IN THE FREEBSD WI-FI STACK
+  - https://www.zerodayinitiative.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack
 
 
 
