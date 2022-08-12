@@ -1,5 +1,5 @@
 # Wifi Security 
-A list of wifi security.
+A list of wifi security resources.
 
 ## Contents
 
