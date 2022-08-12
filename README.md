@@ -1,5 +1,5 @@
 # Wifi Security 
-A list of references to fuzzing resources for wifi security testing.
+A list of wifi security.
 
 ## Contents
 
